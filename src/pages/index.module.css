@@ -10,6 +10,18 @@
   overflow: hidden;
 }
 
+.bgTheme1 {
+  background-color: #353D40 !important;
+  color: #FFF;
+}
+
+.bgTheme4 {
+  background-color: #F2B138 !important;
+}
+.borderTheme4 {
+  border-color: #F2B138 !important;
+}
+
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;

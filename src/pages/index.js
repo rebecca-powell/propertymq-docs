@@ -8,17 +8,18 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header className={clsx('hero hero--primary', styles.heroBanner, styles.bgTheme1)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <h1 className="hero__title">PropertyMQ Documentation</h1>
+        <p className="hero__subtitle">
+          Documentation and Solutions from the PropertyMQ Team
+        </p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            className={clsx('button button--secondary button--lg', styles.bgTheme4,styles.borderTheme4)}
+            to="/docs/setup">
+            Getting Started with PropertyMQ
           </Link>
         </div>
       </div>
@@ -34,7 +35,6 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
       </main>
     </Layout>
   );
