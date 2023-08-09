@@ -44,13 +44,7 @@ const config = {
           editUrl:
             'https://github.com/stackleader/propertymq-docs/edit/master/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/stackleader/propertymq-docs/edit/master/',
-        },
+       
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -63,14 +57,13 @@ const config = {
     ({
       image: 'img/propertymq_logo.png',
       navbar: {
+        style: 'dark',
         logo: {
           alt: 'PropertyMQ Logo',
           src: 'img/propertymq_logo.png',
         },
         items: [
-          { to: '/docs/setup', label: 'Docs', position: 'left' },
-          { to: '/blog', label: 'Blog', position: 'left' }
-         
+          { to: '/docs/', label: 'Docs', position: 'left' }
         ],
       },
       footer: {

@@ -18,7 +18,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className={clsx('button button--secondary button--lg', styles.bgTheme4,styles.borderTheme4)}
-            to="/docs/setup">
+            to="/docs/">
             Getting Started with PropertyMQ
           </Link>
         </div>
