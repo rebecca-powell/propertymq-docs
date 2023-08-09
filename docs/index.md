@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 ### Account Setup
- - [Adding Your Company Information](account-setup/adding-company-information)
+ - [Adding Your Business Information](account-setup/adding-company-information)
  - Setting Up Online Payments
    - ACH Bank Payments
    - Credit Card Payments
