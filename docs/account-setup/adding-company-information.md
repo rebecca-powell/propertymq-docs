@@ -1,9 +1,10 @@
 ---
 sidebar_position: 1
+title: Adding Your Company Information
 ---
 
 
-## Steps to Add Your Company Information
+## Steps
 
 1. **Select the Settings/Account Menu Item:** 
 
