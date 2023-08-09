@@ -11,7 +11,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner, styles.bgTheme1)}>
       <div className="container">
-        <h1 className="hero__title">PropertyMQ Documentation</h1>
+        <h1 className="hero__subtitle">PropertyMQ Documentation</h1>
         <p className="hero__subtitle">
           Documentation and Solutions from the PropertyMQ Team
         </p>
