@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpropertymq_docs=self.webpackChunkpropertymq_docs||[]).push([[774],{111:o=>{o.exports=JSON.parse('{"permalink":"/propertymq-docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
