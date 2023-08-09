@@ -63,7 +63,8 @@ const config = {
           src: 'img/propertymq_logo.png',
         },
         items: [
-          { to: '/docs/', label: 'Docs', position: 'left' }
+          { to: '/docs/', label: 'Docs', position: 'left' },
+          { to: 'https://propertymq.com/', label: 'Back to PropertyMQ', position: 'right' }
         ],
       },
       footer: {
