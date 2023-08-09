@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpropertymq_docs=self.webpackChunkpropertymq_docs||[]).push([[707],{6375:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/propertymq-docs/blog/tags/docusaurus","allTagsPath":"/propertymq-docs/blog/tags","count":4}')}}]);

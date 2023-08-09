@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpropertymq_docs=self.webpackChunkpropertymq_docs||[]).push([[175],{3107:e=>{e.exports=JSON.parse('{"permalink":"/propertymq-docs/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

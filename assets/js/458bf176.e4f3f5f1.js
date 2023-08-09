@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpropertymq_docs=self.webpackChunkpropertymq_docs||[]).push([[383],{2573:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/propertymq-docs/blog/tags/facebook","allTagsPath":"/propertymq-docs/blog/tags","count":1}')}}]);
